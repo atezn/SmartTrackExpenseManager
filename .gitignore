@@ -1,0 +1,30 @@
+# Created by https://www.toptal.com/developers/gitignore/api/android,kotlin,gradle
+# !! DO NOT DELETE THIS FILE !!
+
+# Android/IntelliJ
+.idea/
+.gradle/
+*.iml
+local.properties
+
+# Builds
+build/
+app/build/
+captures/
+.externalNativeBuild/
+.cxx/
+*.apk
+*.ap_
+*.aab
+*.dex
+*.class
+
+# Keystore files
+*.jks
+*.keystore
+
+# Mac hidden files
+.DS_Store
+
+# Log Files
+*.log
